@@ -1,4 +1,4 @@
-Completed project: http://dash.ga.co/traceylea9/build-your-own-personal-website
+Completed project Nov 2020: http://dash.ga.co/traceylea9/build-your-own-personal-website
 
 PROJECT 1: BUILD A PERSONAL WEBSITE
 Your friend Anna wants you to make a website for her
