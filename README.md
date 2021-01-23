@@ -7,4 +7,4 @@ Your friend Anna wants you to make a website for her
 3. Add a background image and logo
 4. Build your own personal website
 
-*This was a fun program I encouraged my students to do to introduce themselves to programming, web development and design. I did my own site as a part of the demonstration/modelling teaching practice.
+*This was a fun program I encouraged my students to do to introduce themselves to programming, web development and design. I completed my own site as a part of the units and teaching process considered appropriate for best teaching adults.
